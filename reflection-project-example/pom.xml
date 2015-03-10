@@ -4,7 +4,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 <groupId>reflection-project-example</groupId>
 <artifactId>reflection-project-example</artifactId>
 <version>0.0.1-SNAPSHOT</version>
-<name>Testes de reflexão em Java</name>
+<name>Testes de reflexão em Java.</name>
 
 	<dependencies>
 		<dependency>
