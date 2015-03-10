@@ -18,8 +18,8 @@ public class Child {
         return texto;
     }
 
-    public void setTexto( String texto ) {
-        this.texto = texto;
+    public void setTexto( String textoo ) {
+        this.texto = textoo;
     }
 
 }
